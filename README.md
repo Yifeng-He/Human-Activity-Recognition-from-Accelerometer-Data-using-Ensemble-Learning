@@ -1,7 +1,7 @@
 # Human-Activity-Recognition-from-Accelerometer-Data-Using-Ensemble-Learning
 This project aims to classify the human activities using ensemble learning method.
 
-Data set:
+Dataset:
 
 The human activities dataset contains 5 classes (sitting-down, standing-up, standing, walking, and sitting) collected on 8 hours of activities of 4 healthy subjects. The data set is downloaded from
 
